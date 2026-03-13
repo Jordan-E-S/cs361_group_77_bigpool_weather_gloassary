@@ -1,5 +1,4 @@
 Oregon State CS361 Microservice: Weather Key Terms
-Communication Contract
 
 Given a starting letter, the microservice will return a list of weather key terms that begin with that letter.
 Given a weather key term, the microservice will return the definition of that term.
